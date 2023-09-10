@@ -1,0 +1,5 @@
+add_city:
+  - "Beijing"
+  - "Shanghai"
+city_fail:
+  - "Yunnan"

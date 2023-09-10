@@ -1,0 +1,10 @@
+name_success: ["1","TTT","%^&*"]
+name_false: [1, False ,55.55]
+volume_success: [3,99]
+volume_false:
+  - "aa"
+  - False
+volume_value_success: [1,2,98,99]
+volume_value_false: [-3,0,100]
+power_success: [1,99]
+power_false: ["aa",False,55.55,0,-1]
